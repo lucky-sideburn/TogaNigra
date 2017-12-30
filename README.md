@@ -12,13 +12,13 @@
 
 **[Floppy disk](#6)**
 
-**[Il Mega Internet Point all’Esquilino](#6)**
+**[Il Mega Internet Point all’Esquilino](#67)**
 
-**[300 secondi all’autocoscienza](#7)**
+**[300 secondi all’autocoscienza](#8)**
 
-**[Freeze](#8)**
+**[Freeze](#9)**
 
-**[Il reset del routerone](#9)**
+**[Il reset del routerone](#10)**
   
   
   
