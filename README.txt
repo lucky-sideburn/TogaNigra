@@ -1,26 +1,28 @@
-**Indice**
+Indice
 
-**[Introduzione](#1)**
+Introduzione
 
-**[Un po’ di storia](#2)**
+Un po’ di storia
 
-**[L’inseguimento](#3)**
+L’inseguimento
 
-**[Hack Tribe](#4)**
+Hack Tribe
 
-**[Alla ricerca di Lala](#5)**
+Alla ricerca di Lala
 
-**[Floppy disk](#6)**
+Floppy disk
 
-**[Il Mega Internet Point all’Esquilino](#7)**
+Il Mega Internet Point all’Esquilino
 
-**[300 secondi all’autocoscienza](#8)**
+300 secondi all’autocoscienza
 
-**[Freeze](#9)**
+Freeze
 
-**[Il reset del routerone](#10)**
-  
-## 1
+Il reset del routerone
+
+
+
+
 ## Introduzione
 
 Spesso mi capita di immaginare quali possano essere le motivazioni, alternative a quelle che si conoscono, al degrado che incontro camminando per le strade di Roma, la mia città. L’ultima spiegazione che mi sono dato è che tutto dipenda da una storia di hacker, sabotaggi dei servizi urbani e intelligenze artificiali milanesi. Potrebbero esserci dei problemi di consecutio temporum, ma comunque buona lettura.
@@ -28,7 +30,6 @@ Spesso mi capita di immaginare quali possano essere le motivazioni, alternative 
  
  
  
-## 2 
 ## Un po’ di storia
 
 Poco dopo la fondazione di Roma nel 753 a.C. avvenne uno dei fatti più leggendari che riguarda la mia città: il ratto delle Sabine. Da piccolo ero troppo impegnato a focalizzare la mia attenzione sulla parola “ratto”, per cui solamente oggi gli do la giusta importanza. Ho pensato quindi di utilizzare questo evento per iniziare il mio racconto. È un po’ come quando studiai Anacreonte e la professoressa mi raccontò del suo giovane amico. Il giovinetto Smerdi. Dopo aver udito quel nome, dimenticai tutte le opere di Anacreonte focalizzando tutta la mia attenzione sul quel giovinetto. Smerdi. 
@@ -59,7 +60,6 @@ L’altro giorno mi trovavo in un ufficio pubblico ed era tutto sporco e malanda
 
 
 
-## 3
 ## L’inseguimento
 
 Tempo fa in zona San Lorenzo circa alle tre del mattino. 
@@ -81,7 +81,6 @@ Un altro esempio. Lo scandalo "affittopoli capitolina", anche quella è opera lo
 
 
 
-## 4
 ## Hack Tribe
 
 Odore di caffè e cornetti industriali scaldati al forno era quello che si sentiva nella cucina in perfetto ordine dello Space Cowboy in versione cittadino normale e anonimo. 
@@ -152,7 +151,6 @@ Lei rispose: <<Spiacente, devi giocare con me, Space Cowboy. Ti ho inviato una m
 
 
 
-## 5
 ## Alla ricerca di Lala
 
 Space Cowboy era solo. I suoi compagni erano intrappolati nel caos cittadino e non avrebbero potuto aiutarlo. 
@@ -200,7 +198,6 @@ Lala cominciò a saltellare dicendo: <<Wow, un floppy, guarda Space, un floppy>>
 
 
 
-## 6
 ## Floppy disk
 
 Chiunque avesse progettato quel piano diabolico, voleva servirsi del computer di Space Cowboy, connesso a migliaia di sistemi informatici della capitale ancora con un cazzo di lettore di floppy disk!
@@ -223,7 +220,6 @@ I computer dell'università? Quelli di qualche biblioteca? No, erano troppo poch
 
 
 
-## 7
 ## Il Mega Internet Point all’Esquilino
 
 Sapete che cos’è il Mega Internet Point all’Esquilino? Stiamo parlando del più grande internet point di Roma. Più di 1200 postazioni Windows con velocità di connessione dati a 1 gigabit al secondo. Se devi sferrare un attacco informatico su larga scala, non puoi che andare lì. 
@@ -250,7 +246,6 @@ Skynet sapeva che Space Cowboy era destinato a combatterla, o forse aveva dei �
 
 
 
-## 8
 ## 300 secondi all’autocoscienza
 
 La monaca balzò verso Cinnamon Girl e iniziò un combattimento tra titani. Se le suonarono di santa ragione e Space Cowboy, nel marasma generale, poté tornare al computer.
@@ -291,7 +286,6 @@ Cinnamon Girl, impietrita, ne era la prova.
 
 
 
-## 9
 ## Freeze
 
 La città era in un limbo. Né libera, né sotto il controllo di Skynet Milanese. Era tutto immobile, fermo. Come in una fotografia. Un timido sole iniziò a farsi spazio tra le nuvole e sul raccordo Mongoose ormai delirava quasi privo di sensi nella sua macchina.
@@ -306,7 +300,6 @@ Queste sono domande che non hanno una risposta, ma solo ipotesi. Una di queste �
 
 
 
-## 10
 ## Il reset del routerone
 
 Ora il problema principale è: dove si trova il router cittadino e come bisogna riavviarlo? L’apparato si trova a Forte Antenne, Municipio II, all’interno di Villa Ada. Nei sotterranei del forte, che è tuttora zona militare. Introdursi lì è quasi impossibile, quel luogo è inespugnabile. 
