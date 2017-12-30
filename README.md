@@ -1,14 +1,23 @@
 **Indice**
 
 **[Introduzione](#1)**
+
 **[Un po’ di storia](#2)**
+
 **[L’inseguimento](#3)**
+
 **[Hack Tribe](#4)**
+
 **[Alla ricerca di Lala](#5)**
+
 **[Floppy disk](#6)**
+
 **[Il Mega Internet Point all’Esquilino](#6)**
+
 **[300 secondi all’autocoscienza](#7)**
+
 **[Freeze](#8)**
+
 **[Il reset del routerone](#9)**
   
   
