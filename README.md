@@ -1,28 +1,26 @@
 **Indice**
 
-**[Introduzione](#Introduzione)**
-**[Un po’ di storia](#Un po’ di storia)**
-**[L’inseguimento](#L'inseguimento)**
-**[Hack Tribe](#Hack Tribe)**
-**[Alla ricerca di Lala](#Alla ricerca di Lalla)**
-**[Floppy disk](#Floppy disk)**
-**[Il Mega Internet Point all’Esquilino](#Il Mega Internet Point all’Esquilino)**
-**[300 secondi all’autocoscienza](#300 secondi all’autocoscienza)**
-**[Freeze](#Freeze)**
-**[Il reset del routerone](#Il reset del routerone)**
+**[Introduzione](#1)**
+**[Un po’ di storia](#2)**
+**[L’inseguimento](#3)**
+**[Hack Tribe](#4)**
+**[Alla ricerca di Lala](#5)**
+**[Floppy disk](#6)**
+**[Il Mega Internet Point all’Esquilino](#6)**
+**[300 secondi all’autocoscienza](#7)**
+**[Freeze](#8)**
+**[Il reset del routerone](#9)**
   
   
   
-  
-##  Introduzione
+
+## 1  
+## Introduzione
 
 Spesso mi capita di immaginare quali possano essere le motivazioni, alternative a quelle che si conoscono, al degrado che incontro camminando per le strade di Roma, la mia città. L’ultima spiegazione che mi sono dato è che tutto dipenda da una storia di hacker, sabotaggi dei servizi urbani e intelligenze artificiali milanesi. Potrebbero esserci dei problemi di consecutio temporum, ma comunque buona lettura.
 
-  
-  
-  
-  
-##  Un po’ di storia
+## 2
+## Un po’ di storia
 
 Poco dopo la fondazione di Roma nel 753 a.C. avvenne uno dei fatti più leggendari che riguarda la mia città: il ratto delle Sabine. Da piccolo ero troppo impegnato a focalizzare la mia attenzione sulla parola “ratto”, per cui solamente oggi gli do la giusta importanza. Ho pensato quindi di utilizzare questo evento per iniziare il mio racconto. È un po’ come quando studiai Anacreonte e la professoressa mi raccontò del suo giovane amico. Il giovinetto Smerdi. Dopo aver udito quel nome, dimenticai tutte le opere di Anacreonte focalizzando tutta la mia attenzione sul quel giovinetto. Smerdi. 
 Dopo questa piccola digressione passiamo al tema principale. Romolo, dopo aver fondato Roma, chiese agli abitanti dei luoghi vicini alcune donne per procreare e accrescere in questo modo la popolazione della città appena nata. A suo tempo quello era un paese a crescita zero (come il nostro attualmente). Come risposta Romolo ottenne un rifiuto, così per raggiungere lo stesso il suo obiettivo, aggirando l’ostacolo, ebbe l'idea di organizzare un grande spettacolo per avvicinare più gente possibile. Una volta raccolte tutte le genti della regione nella sua terra, fece rapire le donne.
@@ -31,7 +29,8 @@ In questo modo, oltre a raccontare un fatto non vero, citerei anche fonti che no
 Dall'incendio di Roma del 64 a.C. sotto Nerone, alla crisi idrica estiva del 2017 (riaccendete i nasoni per favore); molti degli eventi più devastanti per la città di Roma furono causati da questo gruppo di Sabine arrabbiate. Si considerarono loro, della Toga Nigra, le responsabili di tutti gli eventi negativi poiché, durante molti avvenimenti critici, venivano viste fuggire delle figure femminili vestite di nero. Che per intenderci somigliava al tipo cattivo di Scream, ma senza la maschera paurosa.  La toga indossata dalle sovversive serviva per nascondere armi come bastoni, veleni, pugnali e pozioni magiche. Poi, con l'avvento della cristianità e degli ordini religiosi, molte combattenti iniziarono a tramandare storia e principi del movimento all'interno dei conventi. Allora erano delle specie di fortezze. Mascherate da gentili e buone sorelle, all’interno di quei luoghi vivevano delle tostissime combattenti. Avevano ragione comunque, poiché i Romani la combinarono grossa. Le combattenti della Toga Nigra a conti fatti sono le attuali suore.  Come dicevo, la loro reazione fu una conseguenza giusta a ciò che molte donne dovettero subire, rivendicando così i diritti di quelle vittime ingiustamente rapite.  Da centinaia di anni le sovversive compiono atti di sabotaggio su Roma per vendicarsi del sopruso subito.  Anche se sto utilizzando la loro figura per il mio racconto e devo rappresentarle come le cattive della situazione, sono dalla loro parte e sono d’accordo con la loro causa. Inoltre, mi piacciono anche le suore! Probabilmente le donne di cui sto parlando continuano questa lotta perché nessuno finora ha chiesto scusa per il ratto delle Sabine. Basterebbe semplicemente affrontare la tematica a un tavolo. Parlarne al posto di ignorare l’argomento. Quando saremo pronti, un giorno, potremmo anche affrontare lo spinoso tema (descritto così in una puntata di Boris) delle guerre puniche.  Le sorelle della Toga Nigra oggi si confondono in mezzo a delle comunissime suore dall'aspetto ingenuo. In realtà sono delle astutissime e bravissime hacker.  Negli anni, le combattenti di questa setta si sono dovute aggiornare e modernizzare. Un tempo le loro armi erano analogiche, ora possiedono arsenali digitali e hanno molti computer. Però, non quelli da fighetto hipster. Sono computer old school tipo l’IBM Thinkpad x60 e naturalmente usano solo ethical distro Linux come fa Richard Stallman (sistemi operativi che contengono solo codice free al loro interno. Free non come “free beer”).  Nell'era digitale uno dei mezzi più utili per mettere in ginocchio il sistema è proprio il cyber-terrorismo e le ragazze della Toga Nigra, queste cyber-sorelle, sono ovunque e sanno fare bene il loro mestiere.  Non scrivono comunicati come Anonymous, non twittano #tangodown quando tirano giù qualche sito. Agiscono e basta. Hanno vari meeting point (i conventi) sparsi per la città, che alla fine sono tipo dei coworking di suore. Bevono il tè, fanno battute nerd e a volte guardano le serie tv. Dentro ci sono delle workstation da dove scrivono centinaia di righe di codice al giorno. Contribuiscono persino a importantissimi progetti comunitari, come il Kernel Linux e supportano attivamente la comunità hacker.  Le sorelle provano ogni giorni svariati tipi di attacchi informatici e spesso riescono nel loro intento. La metro non passa da quasi 15 minuti? Dietro il ritardo probabilmente c’è una loro intrusione nei sistemi informatici della società dei trasporti. Spesso collegandosi al main-frame che gestisce gli scambi dei binari della metropolitani causano forti rallentamenti.  Accedono a qualsiasi sorta di device collegato in rete.  Il distributore dei biglietti della metro non funziona? È sotto attacco.  Il negoziante non ti fa lo scontrino, il tassista ha il pos rotto, il tecnico della caldaia ti vuole vendere di straforo un pezzo che non ti serve? Sono tutti sotto attacco.  Quando sudi come una bestia in fila alle poste, stai assistendo a un hackeraggio. Arrestano il tuo pusher? Era sotto attacco. Le auto di nuova generazione sono sempre più smart e sempre più connesse alla rete? Questo dettaglio permette alle sorelle di intasare le strade. Pilotano remotamente i SUV utilizzando dei volanti come quelli dei gamer.  Sono molto arrabbiate, insomma, per quello che accade. Hanno ragione, per carità, però qui non si vive più. Roma è un casino.  Andare a lavoro è molto stressante perché la gente è esausta e le cose funzionano male. Le persone escono sempre di meno perché sono inchiodate a casa dalle serie televisive; so che in questo non c’entra la Toga Nigra e i disservizi urbani, però volevo comunque tirare fuori l’argomento. C’è il problema del bancomat: tutti si lamentano che spesso a Roma non accettano le carte. Sono loro che lanciano attacchi DoS ai sistemi bancari.  L’altro giorno mi trovavo in un ufficio pubblico ed era tutto sporco e malandato. Ho pensato: “È probabile siano stati sabotati gli addetti alle pulizie.”
 
 
-##  L’inseguimento
+## 3
+## L’inseguimento
 
 Tempo fa in zona San Lorenzo circa alle tre del mattino.  <<Mongoose chiama Space Cowboy, Mongoose chiama Space Cowboy… Dove ti trovi? Space Cowboy rispondi>>.  La radio di Space Cowboy risuonava forte negli auricolari mentre sfrecciava per le vie di San Lorenzo.  <<Sono a via dei Volsci, sto dribblando un po’ di fuori sede ubriachi, ma ho la speciale attaccata alle natiche. Mongoose… sto per uscire sulla Tiburtina… Aiutami cazzo!>>.  Space Cowboy e la sua moto Yamaha da cross correvano per il quartiere universitario provando a seminare gli sbirri.  Mongoose, invece, è ai monitor, nell’ombra, con le mani fisse sulla tastiera, le dita che si muovevano a velocità supersonica, battendo migliaia di scritte verdi sparse sugli schermi multipli.
 <<Space, posso farteli seminare, ti sto inviando il percorso... Gli sbirri si troveranno davanti il notturno delle 3:10, temporeggia e quando sei pronto, portati al punto stabilito>>.
@@ -40,8 +39,8 @@ L’inseguimento continuava tra un dribbling e un altro. Space Cowboy era concen
 <<Centrale, lo abbiamo perso…>> così l'agente Pippetti comunicava di aver mancato il contatto con il fuggitivo.  C'era stata una segnalazione da parte delle monache del convento di Santa Susina al Tiburtino, in cui dichiaravano di essersi accorte che un ragazzo con strani aggeggi informatici si aggirava intorno al convento. La polizia, qualche minuto dopo, aveva intercettato un ragazzo su una moto da cross Yamaha munito di computer. Il ragazzo in questione era Space Cowboy, uno dei protagonisti di questo racconto. Questo che vi narro non è un caso di quelli in cui lo scrittore si rispecchia nel personaggio. È vero, sono un po’ nerd, ma non sono come il protagonista della storia. E poi sotto sotto mi sento un po’ in imbarazzo a scrivere un racconto che parla di cose hacker.
 Comunque… I seguenti ragazzi erano membri dell’Hack Tribe di Roma: Space Cowboy, Phase, Mongoose e Cinnamon Girl. Si trattava di un gruppo di programmatori senza turbe psichiche.  Per anni molte delle azioni commesse dalla Toga Nigra sono state contrastate dall'HT che hanno respinto attacchi informatici di varia natura. Avete presente quando state aspettando il notturno, quasi in stato di ipotermia, e a un certo punto lo vedete apparire e cominciate a immaginarvi nel letto di casa al caldo? Quello avviene perché probabilmente il GPS del mezzo non è più sotto il controllo remoto di qualche pirata e il conducente può trovare la strada e continuare con il percorso prestabilito.  Una volta, da piccolo, facevo compagnia a un mio amico nell’estenuante attesa del notturno. A un certo punto, dopo ore e ore, urlò: “Che meraviglia!”. Il mezzo si dirigeva verso di noi alla fermata. Fu splendido vederlo arrivare, ma uno strazio vederlo andare via senza raccogliere il mio amico. Probabilmente il controllo del mezzo era tornato improvvisamente nelle mani della Toga Nigra e l’autista non aveva potuto più effettuare la fermata.  Un altro esempio. Lo scandalo "affittopoli capitolina", anche quella è opera loro... Trecento euro per una casa in affitto a Fontana di Trevi? Tutto causato dalle sorelle e dalle loro malefatte nei conti bancari. 
 
-
-##  Hack Tribe
+## 4
+## Hack Tribe
 
 Odore di caffè e cornetti industriali scaldati al forno era quello che si sentiva nella cucina in perfetto ordine dello Space Cowboy in versione cittadino normale e anonimo.  Dava uno sguardo ai binari del treno, a una Roma che lo affascinava, e subito si metteva davanti al computer. Come Mongoose anche lui lavorava nel buio della sua stanza, tra monitor, tastiere e tecnologia old school poco fighetta.  Ho già usato l’epiteto “fighetto” in relazione alla tecnologia ed è ora che spieghi di cosa sto parlando. In poche parole, le cose della Apple sono considerate “fighette”, il resto no.
 C'era una mappa sul monitor di Space Cowboy con un punto verde che si muoveva. Lui lo fissava con attenzione e lo seguiva con il dito. Sussurrava: <<Dai, dai, dai… su forza!>>. Era come se quel puntino verde seguisse un percorso prestabilito, come se Space Cowboy ne prevedesse il tragitto. In effetti stava seguendo delle tappe prestabilite: i punti rossi. Ma cosa stava facendo Space Cowboy? Chi stava spiando? Forse aveva intercettato qualcuno della Toga Nigra?
@@ -113,8 +112,8 @@ La Skynet Milanese di cui parlo in questo libro stava per prendere il controllo 
 Per farlo però serviva un’enorme potenza di calcolo realizzata da un numero spropositato di macchine che senza sosta dovevano sferrare attacchi in rete.  I computer dell'università? Quelli di qualche biblioteca? No, erano troppo pochi. La soluzione era il Mega Internet Point all'Esquilino di Mr Bhatt. 
 
 
-
-##  Il Mega Internet Point all’Esquilino
+## 5
+## Il Mega Internet Point all’Esquilino
 
 Sapete che cos’è il Mega Internet Point all’Esquilino? Stiamo parlando del più grande internet point di Roma. Più di 1200 postazioni Windows con velocità di connessione dati a 1 gigabit al secondo. Se devi sferrare un attacco informatico su larga scala, non puoi che andare lì. 
 Il tempo stringeva e la Skynet Milanese iniziava a prendere sempre di più il sopravvento. Erano trascorsi appena 15 minuti dalla sua pre-attivazione ed era come se tutto ciò che vedete nella pagina Facebook de “Il Milanese imbruttito” fosse stato trasportato a Roma. 
@@ -132,7 +131,8 @@ Roma sarebbe stata spazzata via da un’intelligenza artificiale Milanese? Che d
 <<Che stai dicendo?>> chiese lui incredulo. Poi all’improvviso ogni cosa si chiarì nella sua mente. Alla stazione, quando aveva trovato Lala accanto a lei c’era un treno pronto a partire, quello che lui per un attimo aveva pensato di prendere ma alla fine non era salito a bordo.
 Skynet sapeva che Space Cowboy era destinato a combatterla, o forse aveva dei “piani milanesi” per il ragazzo? Gli aveva offerto quel passaggio in treno, che lui aveva rifiutato. Il ragazzo aveva compiuto la sua scelta e Lala aveva inserito il floppy disk nel suo computer. Lui era rimasto a combattere.  … Fu in quel momento che fortunatamente arrivò Madre Superiora della Toga Nigra, la più potente della setta, che possiede anche una mezza spada laser come quelle di Star Wars, solo che la sua altro non è che una mazza da baseball di Decathlon. 
 
-##  300 secondi all’autocoscienza
+## 6
+## 300 secondi all’autocoscienza
 
 La monaca balzò verso Cinnamon Girl e iniziò un combattimento tra titani. Se le suonarono di santa ragione e Space Cowboy, nel marasma generale, poté tornare al computer.
 "300 secondi all'autocoscienza. Figa.”
@@ -167,8 +167,8 @@ Mr Bhatt lanciò il pacchetto di noccioline che stava mangiando e Space Cowboy g
 Il router però non si riavviò come previsto, Skynet Milanese si era proprio “impallata”. Ebbene sì, si impallò l’intelligenza artificiale diabolica. 
 Cinnamon Girl, impietrita, ne era la prova.
 
-
-##  Freeze
+## 7
+## Freeze
 
 La città era in un limbo. Né libera, né sotto il controllo di Skynet Milanese. Era tutto immobile, fermo. Come in una fotografia. Un timido sole iniziò a farsi spazio tra le nuvole e sul raccordo Mongoose ormai delirava quasi privo di sensi nella sua macchina.
 Il traffico indotto da Skynet lo aveva logorato e sfiancato. Improvvisamente Mongoose vide una moto balzare e atterrare davanti al suo veicolo. Era una sorella della Toga Nigra che prese un piede di porco, forzò lo sportello dell’auto di Mongoose e lo liberò. Stessa cosa per gli altri due.  Le sorelle aiutarono tutti i membri dell’Hack Tribe a uscire dai vortici in cui erano entrati. Il Reverendo era ancora in attesa di fare una lastra in ospedale. Aveva mangiato qualsiasi tipo di snack e bevuto degli improponibili caffè dalle macchinette. Sembrava fatto: fatto d’attesa e di sanità ingolfata.  Una sorella entrò di colpo e andò verso di lui ormai quasi privo di sensi. Lo prese e lo portò via. Phase era svenuto proprio dentro quell’autobus 409 pienissimo. Una signora gli reggeva la testa. Quando arrivò, la sorella forzò il portellone, sempre con un piede di porco, ed entrò nel mezzo. Raccolse Phase portandolo via. 
@@ -176,12 +176,15 @@ La Toga Nigra in questa lotta era alleata della città.  Le suore salvarono tu
 Ma la missione non era ancora completata. Bisognava resettare manualmente il router cittadino… serve sempre una missione finale per chiudere una storia. E questo era l’obiettivo di tutti. Suore hacker e semplici hacker erano uniti per vincere una battaglia contro un sistema di intelligenza artificiale impallato. Che poi, cosa sarebbe successo se si fosse risvegliato? E soprattutto, Space Cowboy come era stato in grado di impallare Skynet Milanese?  Queste sono domande che non hanno una risposta, ma solo ipotesi. Una di queste è che Skynet Milanese fosse stata affetta da un bug. Un’anomalia. Oppure semplicemente il codice di Skynet Milanese era stato scritto un po’ alla cazzo di cane. Insomma era il classico mega progetto che funziona male ed è costato pure un sacco di soldi!
 
 
-##  Il reset del routerone
+## 8
+## Il reset del routerone
 
 Ora il problema principale è: dove si trova il router cittadino e come bisogna riavviarlo? L’apparato si trova a Forte Antenne, Municipio II, all’interno di Villa Ada. Nei sotterranei del forte, che è tuttora zona militare. Introdursi lì è quasi impossibile, quel luogo è inespugnabile.  L’unico modo che trovarono per accedervi era di sostituire la signora delle pulizie, Giovanna, con Lala. 
 Questo per due motivi:
-1.  La signora era l’unica civile con accesso alla sala del router.
-2.  Per effettuare un riavvio efficace non basta spegnere e riaccendere l’apparato. Il riavvio deve essere inaspettato, come quando pulisci e fai un casino tirando via le spine dalle prese.
+
+*  La signora era l’unica civile con accesso alla sala del router.
+*  Per effettuare un riavvio efficace non basta spegnere e riaccendere l’apparato. Il riavvio deve essere inaspettato, come quando pulisci e fai un casino tirando via le spine dalle prese.
+
 Mongoose si occupò di rapire la signora Giovanna, ma senza usare nessun atto di violenza. L’addormentò con un fazzoletto imbevuto di cloroformio mentre la povera signora aspettava l’autobus per andare a lavoro. Purtroppo, per completare il mio racconto, devo mettere in mezzo la signora Giovanna. Povera.
 Mongoose fece una cosa ignobile, ma era per il bene della città. Il Reverendo e tutte le sorelle della Toga Nigra si nascosero nei dintorni del Forte Antenne. Subito dopo il riavvio del router sarebbe scattato l’allarme per cui sarebbe stato necessario combattere contro un po’ di militari arrabbiati, e chi meglio di loro poteva farlo. Space Cowboy si occupò di spiegare la missione alla sua ragazza.
 <<Hai presente quando giochi a fare le pulizie tra i grovigli di fili nel mio laboratorio, spegni tutto e io a volte bestemmio?>>.
