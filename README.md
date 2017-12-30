@@ -84,8 +84,8 @@ Poi il segnale sparì, il puntino verde non era più visibile sulla mappa. Lala 
 "Tranquillo fratè, si sarà semplicemente levata il cappello e starà in giro per il quartiere", rispose Phase.  Per allertare tutti, Space Cowboy lanciò un messaggio di broadcast a tutti i membri dell’Hack Tribe. Era meglio, per sicurezza, convocare una riunione.  Il Reverendo, Space Cowboy, Phase, Mongoose e Cinnamon Girl si sarebbero incontrati al quartier generale. Ma quella mattina accadde qualcosa di assurdo. Quando Space Cowboy arrivò al luogo dell’appuntamento non c’era nessun altro a Quintiliani, era solo nel covo dell’Hack Tribe. Space Cowboy era spaventatissimo, non sapeva cosa fare. D’un tratto si spense tutto e dopo alcuni secondi si riaccesero solo alcuni schermi. Su alcuni monitor iniziarono ad apparire i vari membri del team. La cosa assurda era che si trovavano tutti in situazioni di surreale immobilità. Non immobilità del tipo “a casa malati”, ma  affetti da immobilità cittadina. Ciò avviene quando sei bloccato da qualcosa, come un ingorgo in tangenziale EST.  Mongoose, che aveva preso la macchina, si era ritrovato imbottigliato sul GRA, Phase era sull’autobus 409 bloccato su via dell'Acqua Bulicante. Il Reverendo, che veniva da Ladispoli, quel giorno era su un treno fermo per un problema sulla linea. Non c'era nessun dubbio, la Toga Nigra aveva sferrato un attacco informatico.  Improvvisamente si accese un altro monitor e apparve Cinnamon Girl.  <<Come puoi vedere abbiamo fatto in modo che i tuoi compagni non potessero aiutarti oggi. Mongoose non riuscirà ad arrivare prima di almeno 3 ore. Sul raccordo vige il panico. Abbiamo fatto in modo che tutte le uscite fossero intasate. Insomma il tuo amico cicciottello è in trappola. Phase è sul 409 e tra poco finirà l'ossigeno per quanta gente è ammucchiata in quell’autobus. Il Reverendo è sul treno ma a breve verrà pestato senza motivo dai poliziotti. Dopo dovrà farsi controllare il naso al pronto soccorso. Entrerà come codice verde per cui attenderà delle ore prima di essere visitato. Come vedi sei solo in questa partita>> disse Cinnamon Girl.  Space Cowboy urlando le rispose: <<Dimmi dove cazzo è la mia ragazza!!>>. 
 Lei rispose: <<Spiacente, devi giocare con me, Space Cowboy. Ti ho inviato una mappa con la posizione attuale di quello che cerchi. Usa il tuo smartphone>>.
 
-
-##  Alla ricerca di Lala
+## 5
+## Alla ricerca di Lala
 
 Space Cowboy era solo. I suoi compagni erano intrappolati nel caos cittadino e non avrebbero potuto aiutarlo.  "Calma e sangue freddo", pensò. "Ok, dove ti trovi adesso... dove stai andando...".  Il segnale di Lala era in movimento, però Space Cowboy era incerto se fosse davvero quello della sua ragazza o di una suora.  Prese la macchina e partì a tutta velocità... Seguendo il percorso, dovette passare da via Portonaccio verso la stazione Tiburtina. Essendoci da poco lo ZTL per cui sarebbe arrivato un bel “multone” per Space Cowboy.  Ma dove si stava dirigendo il ragazzo? Dove portava il segnale? A piazza Vittorio. Proprio in mezzo alla piazza trovò il cappello di Lala, il segnale si era interrotto. All'improvviso, dal nulla, balzò una suora dinanzi a lui e gli sferrò un calcio volante.  Ci fu un combattimento alla Matrix, con mosse di Kung-fu ad altissima velocità.  La suora era potentissima ma Space Cowboy si difendeva bene.
 <<Dimmi dove cazzo è Lala!! >> urlò Space Cowboy mentre sferrava un calcio.  La suora parò il colpo e disse: <<Cosa stai dicendo?! Non l'abbiamo presa noi>>.  Distratto dalla frase inaspettata, il giovane fu colpito al petto da un pugno e cadde. 
@@ -106,8 +106,8 @@ Corse verso i binari e scavalcò i controlli di sicurezza facendo esplodere il p
 Era accanto al treno 9374 per Milano. Cosa voluto dire tutto questo? Space Cowboy era forse stato invitato da questo oscuro potere a partite per Milano?  Tornati a casa, il giovane aveva un'ultima missione da compiere: liberare i suoi amici dalla situazioni di stallo in cui era caduta la città di Roma. Disse alla ragazza: <<Devo andare, ma tonerò presto. Tu mi aspetti qui, vero?>>.  << Certo, Lala resta a casina!>>. La ragazza svuotò sul letto la sacca con tutti gli oggetti che aveva raccolto per strada. Space Cowboy si mise la felpa, guardò fuori e dopo un sospiro lunghissimo prese coraggio e si voltò verso la porta per uscire. Con la coda degli occhi vide le cose portate a casa da Lala. Ed ebbe come come un flash improvviso nell’accorgersi che c'era un floppy disk nel mucchio. Sì, nel 2017, vedere un bel floppy disk old school era quasi impossibile.
 Lala cominciò a saltellare dicendo: <<Wow, un floppy, guarda Space, un floppy>>. Mentre si apprestava a inserirlo nel computer di Space Cowboy, lui urlò di non farlo, ma il tentativo fu vano, poiché Lala aveva appena inserito quel dischetto.
 
-
-##  Floppy disk
+## 6
+## Floppy disk
 
 Chiunque avesse progettato quel piano diabolico, voleva servirsi del computer di Space Cowboy, connesso a migliaia di sistemi informatici della capitale e ancora con un cazzo di lettore di floppy disk!
 <<Oh merda>> esclamò il giovane hacker.
@@ -121,7 +121,7 @@ La Skynet Milanese di cui parlo in questo libro stava per prendere il controllo 
 Per farlo però serviva un’enorme potenza di calcolo realizzata da un numero spropositato di macchine che senza sosta dovevano sferrare attacchi in rete.  I computer dell'università? Quelli di qualche biblioteca? No, erano troppo pochi. La soluzione era il Mega Internet Point all'Esquilino di Mr Bhatt. 
 
 
-## 5
+## 7
 ## Il Mega Internet Point all’Esquilino
 
 Sapete che cos’è il Mega Internet Point all’Esquilino? Stiamo parlando del più grande internet point di Roma. Più di 1200 postazioni Windows con velocità di connessione dati a 1 gigabit al secondo. Se devi sferrare un attacco informatico su larga scala, non puoi che andare lì. 
@@ -140,7 +140,7 @@ Roma sarebbe stata spazzata via da un’intelligenza artificiale Milanese? Che d
 <<Che stai dicendo?>> chiese lui incredulo. Poi all’improvviso ogni cosa si chiarì nella sua mente. Alla stazione, quando aveva trovato Lala accanto a lei c’era un treno pronto a partire, quello che lui per un attimo aveva pensato di prendere ma alla fine non era salito a bordo.
 Skynet sapeva che Space Cowboy era destinato a combatterla, o forse aveva dei “piani milanesi” per il ragazzo? Gli aveva offerto quel passaggio in treno, che lui aveva rifiutato. Il ragazzo aveva compiuto la sua scelta e Lala aveva inserito il floppy disk nel suo computer. Lui era rimasto a combattere.  … Fu in quel momento che fortunatamente arrivò Madre Superiora della Toga Nigra, la più potente della setta, che possiede anche una mezza spada laser come quelle di Star Wars, solo che la sua altro non è che una mazza da baseball di Decathlon. 
 
-## 6
+## 8
 ## 300 secondi all’autocoscienza
 
 La monaca balzò verso Cinnamon Girl e iniziò un combattimento tra titani. Se le suonarono di santa ragione e Space Cowboy, nel marasma generale, poté tornare al computer.
@@ -176,7 +176,7 @@ Mr Bhatt lanciò il pacchetto di noccioline che stava mangiando e Space Cowboy g
 Il router però non si riavviò come previsto, Skynet Milanese si era proprio “impallata”. Ebbene sì, si impallò l’intelligenza artificiale diabolica. 
 Cinnamon Girl, impietrita, ne era la prova.
 
-## 7
+## 9
 ## Freeze
 
 La città era in un limbo. Né libera, né sotto il controllo di Skynet Milanese. Era tutto immobile, fermo. Come in una fotografia. Un timido sole iniziò a farsi spazio tra le nuvole e sul raccordo Mongoose ormai delirava quasi privo di sensi nella sua macchina.
@@ -185,7 +185,7 @@ La Toga Nigra in questa lotta era alleata della città.  Le suore salvarono tu
 Ma la missione non era ancora completata. Bisognava resettare manualmente il router cittadino… serve sempre una missione finale per chiudere una storia. E questo era l’obiettivo di tutti. Suore hacker e semplici hacker erano uniti per vincere una battaglia contro un sistema di intelligenza artificiale impallato. Che poi, cosa sarebbe successo se si fosse risvegliato? E soprattutto, Space Cowboy come era stato in grado di impallare Skynet Milanese?  Queste sono domande che non hanno una risposta, ma solo ipotesi. Una di queste è che Skynet Milanese fosse stata affetta da un bug. Un’anomalia. Oppure semplicemente il codice di Skynet Milanese era stato scritto un po’ alla cazzo di cane. Insomma era il classico mega progetto che funziona male ed è costato pure un sacco di soldi!
 
 
-## 8
+## 10
 ## Il reset del routerone
 
 Ora il problema principale è: dove si trova il router cittadino e come bisogna riavviarlo? L’apparato si trova a Forte Antenne, Municipio II, all’interno di Villa Ada. Nei sotterranei del forte, che è tuttora zona militare. Introdursi lì è quasi impossibile, quel luogo è inespugnabile.  L’unico modo che trovarono per accedervi era di sostituire la signora delle pulizie, Giovanna, con Lala. 
