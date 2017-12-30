@@ -12,7 +12,7 @@
 
 **[Floppy disk](#6)**
 
-**[Il Mega Internet Point all’Esquilino](#67)**
+**[Il Mega Internet Point all’Esquilino](#7)**
 
 **[300 secondi all’autocoscienza](#8)**
 
